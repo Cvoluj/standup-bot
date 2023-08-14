@@ -1,5 +1,10 @@
 # Standup bot
 created according [luchanos](https://www.youtube.com/@luchanos) tutorial in Youtube
+
+- registration system
+- pushing system
+- logging error system
+
 # Instalation
 
 Clone project
